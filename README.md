@@ -1,1 +1,1 @@
-1. Scissors Paper Stone Game
+1. Scissors Paper Stone Game with Python
