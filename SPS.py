@@ -11,7 +11,7 @@ player= input("Choose Rock, Paper or Scissors?")
 #Remember to add " : "
 
  if player.lower == computer :
-  print( "Its a tie! Try again." )
+  print( "Its a tie!" )
  elif player.lower == "rock" and computer == "scissors" :
   print(computer)
   print("You win!")
