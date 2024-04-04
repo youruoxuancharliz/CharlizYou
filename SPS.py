@@ -9,7 +9,7 @@ player= input("Choose Rock, Paper or Scissors?")
 
  #Remember to add indents when needed. Tabs are preferred.
 #Remember to add " : "
-while True :
+
  if player.lower == computer :
   print( "Its a tie! Try again." )
  elif player.lower == "rock" and computer == "scissors" :
