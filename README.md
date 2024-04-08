@@ -1,2 +1,4 @@
-1. Scissors Paper Stone Game with Python
-2. Decision Making with Python
+=====PYTHON PROJECTS=====
+1. Scissors Paper Stone Game 
+2. Decision Making 
+3. Math Timed Quiz
