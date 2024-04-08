@@ -4,10 +4,11 @@ allseries = ["Brooklyn 99", "Suits", "Young Sheldon", "Superstore"]
 
 
 me = input("movie or series?")
-if me == movie or movies :
+#include quotation marks 
+
+if me == "movie" or "movies" :
   print( allmovies[random.randint(0,4)])
-elif me == series :  
+elif me == "series" :  
      print( allseries[random.randint(0,3)])
 
 else : print("choose between movie or series!")
-
