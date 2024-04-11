@@ -1,3 +1,7 @@
+# This simple project was mainly to help me with my problem of being indecisive. I was able to practice functions such as randomnising choices, if-elif-else and input.
+
+
+
 import random
 allmovies = ["Top Gun Maverick", "The Social Network", "Spider-Man", "Glass Onion", "Enola Holmes"]
 allseries = ["Brooklyn 99", "Suits", "Young Sheldon", "Superstore"]
