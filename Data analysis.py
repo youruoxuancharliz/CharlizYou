@@ -14,3 +14,19 @@ print( data.info() )
 print(data.head(6))
 print(data.tail(10))
 
+# return specific columns
+data.groupby('Name','Salary')
+
+# return specific columns and rows
+data.loc[0,['Name','Salary']]   # row index 0
+
+# delete column eg college
+data.pop('College') 
+
+# delete row 
+newdata = data.drop(data.index[26:]) #===deleting rows 26 onwards, leaving only row index 0-25===
+
+# plotting and SET COLOUR
+newdata[['Height', 'Salary']].plot.line(), color={"Height": "red", "Salary": "blue"})
+
+
