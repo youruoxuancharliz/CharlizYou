@@ -1,5 +1,5 @@
 # This project was to help my friend, whos working as a part-time tuition teacher. This project could allow me to help her 
-# create a math quiz game that is 100% personalised to her teaching, as well as her student's learning pace. 
+# create a math quiz game that is 100% personalised to her teaching and her student's learning pace. 
 # This project focuses on the functions of importing different modules, input, if-elif-else. 
 
 
